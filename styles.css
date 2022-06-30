@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/fresh-parsley-vegetables_23-2147694205.jpg?t=st=1656565353~exp=1656565953~hmac=dde1f877ebd32195d7d0bc18bfe7e9287f22e7ddac77e7e2f9c8a519fbe8fffe&w=996");
+    background-color: #cccccc;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-left: 5 rem;
+}
+
+#recipeList {
+    font-size: large;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.mainBG {
+    background-image: url("https://img.freepik.com/free-photo/fresh-parsley-vegetables_23-2147694205.jpg?t=st=1656565353~exp=1656565953~hmac=dde1f877ebd32195d7d0bc18bfe7e9287f22e7ddac77e7e2f9c8a519fbe8fffe&w=996");
+    background-color: #cccccc;
+   }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    background-position: left top;
+    background-repeat: repeat;
+  }
+
+lh {
+    text-emphasis: filled;
+}
+
+h1, h2, h3{
+    text-decoration: underline;
+}
